@@ -1,0 +1,6 @@
+{
+  "name": "EduPulse AI",
+  "description": "Academic Performance & Early Warning System for Engineering Colleges: Detect Early, Support Smartly, Improve Together.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
